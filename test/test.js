@@ -36,9 +36,6 @@ describe("Phrase", function() {
     //   assert(punctuatedPalindrome.letters() === "MadamImAdam");
     // });
 
-    it("should return true for a mixed-case palindrome");
-    it("should return true for a palindrome with punctuation");
-
     });
   });
 });
